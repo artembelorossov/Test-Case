@@ -1,5 +1,5 @@
 # Тест-кейсы тестового задания к игре Supermarket Mania Journey
-[Ссылка на полный документ](https://docs.google.com/spreadsheets/d/1tomvsX0zBePuxIos9axpju1whRBSAA7XZoI56QHxD3s/edit?usp=sharing)
+[Ссылка на полный документ](https://docs.google.com/document/d/1e2pgPV6KxB0hF9LyvNDP8KmC-dU1Uw9cqlD11RjybZw/edit?usp=sharing)
 
 - ID: **TGM-001**
 - Environment: **Windows 11**
